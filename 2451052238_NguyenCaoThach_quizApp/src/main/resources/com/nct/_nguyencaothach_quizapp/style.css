@@ -1,0 +1,21 @@
+.container {
+    -fx-background-color: lightblue;
+    -fx-alignment: center;
+    -fx-spacing: 15;
+}
+
+.head{
+    -fx-font-size: 30;
+    font-weight: bold;
+    -fx-stroke: gold;
+    -fx-stroke-width: 3;
+    -fx-fill: red;
+}
+
+.button {
+    -fx-font-size: 16;
+    -fx-background-color: darkblue;
+    -fx-text-fill: white;
+    -fx-pref-width: 250;
+    -fx-padding: 10;
+}
